@@ -1,4 +1,4 @@
-업데이트중
+!!readme 업데이트중!!
 
 git clone https://github.com/GNC-Solution/django-webrtc.git
 
